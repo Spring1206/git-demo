@@ -1,3 +1,6 @@
 
+<<<<<<< HEAD
 hello git!111
 master test:
+hello git!111:
+hot-gix test
